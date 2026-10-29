@@ -1,0 +1,2 @@
+# Store all files byte-for-byte (CAD files must not have line endings converted)
+* -text

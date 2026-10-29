@@ -1,0 +1,26 @@
+From: Vaughn Glupker 
+Sent: Friday, September 01, 2017 8:43 AM
+To: Duane Vanderwerf
+Cc: Mark Eberlein
+Subject: Add a customer to the clamp slot excel
+
+Duane,
+
+Need a press added to the customer clamp slot excel sheet.
+
+Martinrea Shelbyville Press 7 (2000 ton)
+
+Lwr Foot:
+
+Foot size is 6 inches wide by 4.5 inches deep by 3 inches thick
+Slot size is 2 inches wide by 2 inches deep to center of radius
+
+
+Upr Foot:
+
+Foot size is 6 inches wide by 4 inches dep by 2.5 inches thick
+Slot size is 2 inches wide by 2 inches deep to center of radius
+
+Thanks,
+
+Vaughn
